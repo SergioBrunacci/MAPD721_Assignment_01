@@ -66,6 +66,26 @@ public class ChatActivityFragment extends Fragment {
             }
         });
 
+        Button btnSendConErr = (Button) v.findViewById(R.id.btnSendConErr);
+        btnSendConErr.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "New Message Arrived...", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+                chkConErr();
+            }
+        });
+
+        Button btnSendId = (Button) v.findViewById(R.id.btnSendId);
+        btnSendId.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "New Message Arrived...", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+                sendId();
+            }
+        });
+
         edtMessage = (EditText) v.findViewById(R.id.edtMessage);
 
         loadUserNameFromPreferences();
@@ -112,4 +132,19 @@ public class ChatActivityFragment extends Fragment {
         getActivity().startService(intent);
     }
 
+    private void chkConErr(){
+        Bundle data = new Bundle();
+        data.putInt(ChatService.MSG_CMD, ChatService.CMD_CON_ERR);
+        Intent intent = new Intent(getContext(), ChatService.class);
+        intent.putExtras(data);
+        getActivity().startService(intent);
+    }
+
+    private void sendId(){
+        Bundle data = new Bundle();
+        data.putInt(ChatService.MSG_CMD, ChatService.CMD_SEND_ID);
+        Intent intent = new Intent(getContext(), ChatService.class);
+        intent.putExtras(data);
+        getActivity().startService(intent);
+    }
 }

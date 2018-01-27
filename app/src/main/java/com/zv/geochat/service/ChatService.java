@@ -11,6 +11,8 @@ import android.util.Log;
 
 import com.zv.geochat.notification.NotificationDecorator;
 
+import java.util.Random;
+
 public class ChatService extends Service {
     private static final String TAG = "ChatService";
 
@@ -19,12 +21,17 @@ public class ChatService extends Service {
     public static final int CMD_LEAVE_CHAT = 20;
     public static final int CMD_SEND_MESSAGE = 30;
     public static final int CMD_RECEIVE_MESSAGE = 40;
+    public static final int CMD_CON_ERR = 50;
+    public static final int CMD_SEND_ID = 60;
     public static final String KEY_MESSAGE_TEXT = "message_text";
     public static final String KEY_USER_NAME = "user_name";
 
     private NotificationManager notificationMgr;
     private PowerManager.WakeLock wakeLock;
     private NotificationDecorator notificationDecorator;
+
+    Random rand = new Random();
+
 
     public ChatService() {
     }
@@ -82,6 +89,7 @@ public class ChatService extends Service {
 
     private void handleData(Bundle data) {
         int command = data.getInt(MSG_CMD);
+        int send_id = rand.nextInt(999999) + 1;
         Log.d(TAG, "-(<- received command data to service: command=" + command);
         if (command == CMD_JOIN_CHAT) {
             String userName = (String) data.get(KEY_USER_NAME);
@@ -96,8 +104,13 @@ public class ChatService extends Service {
             String testUser = "User2";
             String testMessage = "Simulated Message";
             notificationDecorator.displaySimpleNotification("New message...: "+ testUser, testMessage);
+        } else if (command == CMD_CON_ERR) {
+            notificationDecorator.displaySimpleNotification("Connection error...", "Connection error: 06");
+        } else if (command == CMD_SEND_ID) {
+            notificationDecorator.displaySimpleNotification("Received Data...", Integer.toString(send_id));
         } else {
             Log.w(TAG, "Ignoring Unknown Command! id=" + command);
         }
     }
 }
+
