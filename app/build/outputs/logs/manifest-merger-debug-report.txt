@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/f6786f91472b800b5d3157f6b9f50744/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/7248c443b4033e82a533a4de9b4b4121/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/f83c86009cb256e030b0c1af621b0f16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4fceb2eea51937ca24dd70905278c6ba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/15a4f141a6e7feefe6f9c5b75b97e187/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/8e79eb0513064b174b4a4da2a5091263/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/cf87f173187f3596da246084900902a5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/331079ae42741c006fbfe2ea8b996b7f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ae050d459158dc83dbbcb88e3240d1a4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/20ffb6cd9472c7f55027c0db06d3c350/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:5:22-65
+application
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support:design:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/f6786f91472b800b5d3157f6b9f50744/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/f6786f91472b800b5d3157f6b9f50744/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/7248c443b4033e82a533a4de9b4b4121/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/7248c443b4033e82a533a4de9b4b4121/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4fceb2eea51937ca24dd70905278c6ba/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4fceb2eea51937ca24dd70905278c6ba/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/15a4f141a6e7feefe6f9c5b75b97e187/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/15a4f141a6e7feefe6f9c5b75b97e187/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/8e79eb0513064b174b4a4da2a5091263/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/8e79eb0513064b174b4a4da2a5091263/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/cf87f173187f3596da246084900902a5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/cf87f173187f3596da246084900902a5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/331079ae42741c006fbfe2ea8b996b7f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/331079ae42741c006fbfe2ea8b996b7f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ae050d459158dc83dbbcb88e3240d1a4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ae050d459158dc83dbbcb88e3240d1a4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/20ffb6cd9472c7f55027c0db06d3c350/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/20ffb6cd9472c7f55027c0db06d3c350/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.zv.geochat.MainActivity
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.zv.geochat.ChatActivity
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:parentActivityName
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:24:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:28:13-30:63
+	android:value
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:30:17-60
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:29:17-63
+service#com.zv.geochat.service.ChatService
+ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:33:9-36:47
+	android:enabled
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml:34:13-48
+uses-sdk
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/f6786f91472b800b5d3157f6b9f50744/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/f6786f91472b800b5d3157f6b9f50744/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/7248c443b4033e82a533a4de9b4b4121/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/7248c443b4033e82a533a4de9b4b4121/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/f83c86009cb256e030b0c1af621b0f16/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/f83c86009cb256e030b0c1af621b0f16/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4fceb2eea51937ca24dd70905278c6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4fceb2eea51937ca24dd70905278c6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/15a4f141a6e7feefe6f9c5b75b97e187/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/15a4f141a6e7feefe6f9c5b75b97e187/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/8e79eb0513064b174b4a4da2a5091263/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/8e79eb0513064b174b4a4da2a5091263/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/cf87f173187f3596da246084900902a5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/cf87f173187f3596da246084900902a5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/331079ae42741c006fbfe2ea8b996b7f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/331079ae42741c006fbfe2ea8b996b7f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ae050d459158dc83dbbcb88e3240d1a4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ae050d459158dc83dbbcb88e3240d1a4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/20ffb6cd9472c7f55027c0db06d3c350/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/20ffb6cd9472c7f55027c0db06d3c350/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/sergiodealmeidabrunacci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/58f3053b1192e2756fabec5ee1ee0a01/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiodealmeidabrunacci/Mobile_Developer/Samsung Adv Android Devpmt/Assignments/android-geochat/app/src/main/AndroidManifest.xml
