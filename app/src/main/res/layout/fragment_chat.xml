@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.zv.geochat.ChatActivityFragment"
+    tools:context="com.sergio.lotto.ChatActivityFragment"
     tools:showIn="@layout/activity_chat">
 
 
@@ -20,16 +20,15 @@
         android:layout_alignParentStart="true">
 
         <Button
-            android:text="Join Chat"
+            android:text="Service stopped"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btnJoinChat" />
-
+            android:id="@+id/btnServiceStopped" />
         <Button
-            android:text="Leave Chat"
+            android:text="Generate Number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btnLeaveChat" />
+            android:id="@+id/btnGenerateNumber" />
 
         <EditText
             android:layout_width="match_parent"
@@ -38,30 +37,5 @@
             android:ems="10"
             android:id="@+id/edtMessage"
             android:text="Type your message...." />
-
-        <Button
-            android:text="Send"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/btnSendMessage" />
-
-        <Button
-            android:text="Simulate Receive Message"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/btnReceiveMessage" />
-
-        <Button
-            android:text="Send Connection Error"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/btnSendConErr" />
-
-        <Button
-            android:text="Send Id"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/btnSendId" />
-
     </LinearLayout>
 </RelativeLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GeoChat</string>
+    <string name="app_name">Lottery Number Generator</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_chat">Number Generator</string>
 </resources>
